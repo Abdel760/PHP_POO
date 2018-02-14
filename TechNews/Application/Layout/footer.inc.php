@@ -85,11 +85,10 @@
     </div>
 </footer>
 </div>
-<!--scrip file-->
+<!--script file-->
 <script src="<?= PATH_PUBLIC ?>/js/jquery.min.js"></script>
 <script src="<?= PATH_PUBLIC ?>/js/bootstrap.js"></script>
 <script src="<?= PATH_PUBLIC ?>/js/owl.carousel.min.js"></script>
 <script src="<?= PATH_PUBLIC ?>/js/main.js"></script>
 </body>
-</html>
-
+<<?= PATH_PUBLIC ?>/html>
